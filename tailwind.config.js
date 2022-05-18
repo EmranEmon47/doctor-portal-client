@@ -26,6 +26,7 @@ module.exports = {
         "error": "#F87272",
       },
     }, ],
+    
   },
   plugins: [require("daisyui")],
 }
